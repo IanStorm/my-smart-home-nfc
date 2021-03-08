@@ -1,0 +1,13 @@
+[
+	{
+		"mac": "04:0D:12:42:44:70:81",
+		"dataset": {
+			"0": {
+				"payload": "com.pg.oralb.oralbapp",
+				"format": "0x04",
+				"type": "android.com:pkg"
+			}
+		},
+		"friendlyName": "bathroom/mirror"
+	}
+]

@@ -6,3 +6,9 @@ Smart Home project for **private purposes**.
 Backs up NFC tags used throughout my home.
 
 **🐳 Make sure you have installed *Docker*.**
+
+
+## -
+
+For the ignition of this repo, I used a custom JSON format.
+This is subject to change, once I learned more about NFC.
