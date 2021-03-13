@@ -8,7 +8,12 @@ Backs up NFC tags used throughout my home.
 **🐳 Make sure you have installed *Docker*.**
 
 
-## -
+## How-to
 
-For the ignition of this repo, I used a custom JSON format.
-This is subject to change, once I learned more about NFC.
+The NFC tags have been written using the Android app [NFC Tools](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc&hl=en_US&gl=US).
+
+
+## Note
+
+For the ignition of this repo, a custom JSON format has been used.
+This is subject to change.
