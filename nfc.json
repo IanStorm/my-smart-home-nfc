@@ -9,7 +9,19 @@
 			}
 		},
 		"password": "!PWD",
-		"friendlyName": "bathroom/mirror"
+		"friendlyName": "bathroom/mirror/left"
+	},
+	{
+		"mac": "04:AA:10:42:44:70:80",
+		"dataset": {
+			"0": {
+				"payload": { "utf8": "com.pg.oralb.oralbapp" },
+				"format": "0x04",
+				"type": "android.com:pkg"
+			}
+		},
+		"password": "!PWD",
+		"friendlyName": "bathroom/mirror/right"
 	},
 	{
 		"mac": "04:AE:12:42:44:70:80",
