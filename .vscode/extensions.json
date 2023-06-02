@@ -1,7 +1,8 @@
 {
 	"recommendations": [
+		"anbuselvan.vscode-symlink",
 		"editorconfig.editorconfig",
+		"ms-vscode.hexeditor",
 		"ms-vscode-remote.remote-wsl",
-		"slevesque.vscode-hexdump"
 	]
 }
